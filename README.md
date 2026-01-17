@@ -14,6 +14,9 @@
 
 ## Скриншоты
 https://imgur.com/gjQGinu
+https://imgur.com/sX3yVhK
+https://imgur.com/YjJHHfc
+https://imgur.com/yNRXXNq
 
 
 ## Основные возможности
