@@ -13,10 +13,10 @@
 - Донат‑аукцион маршрута (чат направляет, куда идти дальше).
 
 ## Скриншоты
-![Главная]https://imgur.com/gjQGinu
-![Кубик]https://imgur.com/sX3yVhK
-![Картацион]https://imgur.com/YjJHHfc
-![QR и Маршрут]https://imgur.com/yNRXXNq
+![Главная](https://imgur.com/gjQGinu)
+![Кубик](https://imgur.com/sX3yVhK)
+![Картацион](https://imgur.com/YjJHHfc)
+![QR и Маршрут](https://imgur.com/yNRXXNq)
 
 
 ## Основные возможности
